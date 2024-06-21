@@ -1,0 +1,4 @@
+this is a file I have added after pushing the local repository.
+In the remote repository I have seen the readme file generated in the local
+using git push -u origin master. But before that I need to add the remote repository
+my-new-project using the following command: git remote add origin HTTPS_URL of the generated remote repository
